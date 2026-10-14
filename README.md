@@ -28,3 +28,10 @@ USE gestao_tarefas;
 SHOW TABLES;
 SELECT * FROM usuarios;
 SELECT * FROM tarefas;
+
+---
+
+## Tecnologias utilizadas
+- MySQL 8.0
+- MySQL Workbench
+- Git/GitHub para versionamento
